@@ -2,3 +2,5 @@ this is my new file
 
 another line!
 yet another addition to this document.
+
+hi Lauren! Hope you're having a nice day :)
